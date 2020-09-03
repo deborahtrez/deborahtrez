@@ -1,4 +1,4 @@
-### Hi there 👋, I am Deborah Aanyu!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Deborah Aanyu!
 
 My stack is as follows:
 * **Frontend**: HTML, CSS, JavaScript, Python

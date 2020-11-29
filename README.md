@@ -10,7 +10,7 @@ My stack is as follows:
 ---
 
 ## Blogging  &#x270f;
-You can find me writing on  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/catalinmpit)  where I (plan to) post my articles. I will be opening a WordPress blog too.
+You can find me writing on  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/deborahtrez)  where I (plan to) post my articles. I blog about my internship experience with Mixxx DJ (through Outreachy) on [WordPress](https://aanyudeborah.wordpress.com/).
 
 ---
 
